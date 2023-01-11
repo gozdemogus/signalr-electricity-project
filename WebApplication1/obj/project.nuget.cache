@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1sAK3bPYpp+v+bn4+etb4eJVKg4VS2FXzMsmWf2RbusEtc1Plgbfx9SI0ZwZ9dzNtx+FEmI7uabp6iAaSt6QiQ==",
+  "success": true,
+  "projectFilePath": "/Users/gozdemogus/Desktop/UpSchool_SignalR_Api2/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/gozdemogus/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/gozdemogus/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/gozdemogus/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

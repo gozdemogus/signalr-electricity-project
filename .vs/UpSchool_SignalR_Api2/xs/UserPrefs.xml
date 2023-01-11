@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/Views/Default/Index.cshtml">
+    <Files>
+      <File FileName="WebApplication1/Controllers/DefaultController.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/Views/Default/Index.cshtml" Line="21" Column="47" />
+      <File FileName="UpSchool_SignalR_Api2/Hubs/ElectricHub.cs" Line="1" Column="1" />
+      <File FileName="UpSchool_SignalR_Api2/Controllers/DefaultController.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/Program.cs" Line="14" Column="47" />
+      <File FileName="WebApplication1/Properties/launchSettings.json" Line="21" Column="70" />
+      <File FileName="UpSchool_SignalR_Api2/Hubs/ElectricService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UpSchool_SignalR_Api2" expanded="True">
+            <Node name="WebApplication1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Default" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{18F1407E-D5FE-404E-8100-5076B9E4E8E0}" ItemName="UpSchool_SignalR_Api2" ConfigurationId="Default" />
+        <StartupItem ItemId="{8B975248-7306-4CD8-9721-846A5942808A}" ItemName="WebApplication1" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.UpSchool__SignalR__Api2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.WebApplication1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
